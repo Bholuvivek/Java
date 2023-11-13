@@ -32,7 +32,7 @@ Feel free to explore the individual folders for each topic to access code exampl
 For additional support and updates, you can reach me through the following channels:
 
 - **YouTube:** [Your YouTube Channel](https://www.youtube.com/channel/UClhKtACVRfHeYcDiAxngZpQ)
-- **Email:** your.email@example.com
+- **Email:** viveksinghpihuli0a@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/Bholuvivek)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vivekbholu)
 - **Instagram:** [Your Instagram Profile](https://www.instagram.com/thevivekbholu)
