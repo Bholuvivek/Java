@@ -17,6 +17,31 @@
 
 Explanation of how to declare classes and create objects in Java.
 
+// Class declaration
+public class MyClass {
+    // Class members (fields, methods, constructors, etc.)
+    private int myField;
+
+    // Constructor
+    public MyClass(int value) {
+        this.myField = value;
+    }
+
+    // Method
+    public void myMethod() {
+        System.out.println("This is a method in MyClass");
+    }
+}
+
+
+// Creating an object of MyClass
+MyClass obj = new MyClass(10); // Invokes the constructor with the specified value
+
+// Accessing members of the object
+obj.myMethod(); // Invokes the method
+System.out.println(obj.myField); // Accesses the field
+
+
 ## 6_2 Access Modifiers in Java
 
 Overview of access modifiers and their usage in Java.
