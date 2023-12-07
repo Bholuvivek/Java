@@ -1,69 +1,66 @@
-# Operators in Java
+# Topics: Object and Classes
 
-In Java, operators are special symbols that perform operations on variables and values. They are used to manipulate data and perform various calculations. Here, we'll explore the types of operators, their definitions, symbols, and use cases.
+## Table of Contents
 
-## Types of Operators
+1. [Declaration of Class and Objects](#6_1-declaration-of-class-and-objects)
+2. [Access Modifiers in Java](#6_2-access-modifiers-in-java)
+3. [Array of Objects](#6_3-array-of-objects)
+4. [Constructors in Java](#6_4-constructors-in-java)
+5. [this Keyword](#6_5-this-keyword)
+6. [statics Keyword](#6_6-statics-keyword)
+7. [Initializer Blocks](#6_7-initializer-blocks)
+8. [Wrapper Class](#6_8-wrapper-class)
 
-### 1. Arithmetic Operators
+---
 
-Arithmetic operators perform mathematical operations on numeric values.
+## 6_1 Declaration of Class and Objects
 
-- **Definition:** Arithmetic operators include addition, subtraction, multiplication, division, and modulus.
-- **Symbols:**
-  - Addition: `+`
-  - Subtraction: `-`
-  - Multiplication: `*`
-  - Division: `/`
-  - Modulus (remainder): `%`
-- **Use Case:** Used for basic mathematical calculations.
+Explanation of how to declare classes and create objects in Java.
 
-### 2. Relational Operators
+## 6_2 Access Modifiers in Java
 
-Relational operators compare two values and return a boolean result.
+Overview of access modifiers and their usage in Java.
 
-- **Definition:** Relational operators include equality, inequality, greater than, less than, greater than or equal to, and less than or equal to.
-- **Symbols:**
-  - Equality: `==`
-  - Inequality: `!=`
-  - Greater than: `>`
-  - Less than: `<`
-  - Greater than or equal to: `>=`
-  - Less than or equal to: `<=`
-- **Use Case:** Used for making decisions based on conditions.
+## 6_3 Array of Objects
 
-### 3. Logical Operators
+Explanation of how to create arrays of objects in Java.
 
-Logical operators perform logical operations on boolean values.
+## 6_4 Constructors in Java
 
-- **Definition:** Logical operators include AND, OR, and NOT.
-- **Symbols:**
-  - AND: `&&`
-  - OR: `||`
-  - NOT: `!`
-- **Use Case:** Used for combining and negating conditions.
+Discussion on constructors in Java and their usage.
 
-### 4. Assignment Operators
+## 6_5 this Keyword
 
-Assignment operators assign values to variables.
+Explanation of the 'this' keyword in Java.
 
-- **Definition:** Assignment operators include simple assignment (`=`) and compound assignments (`+=`, `-=`, `*=`, `/=`, `%=`).
-- **Symbols:**
-  - Simple Assignment: `=`
-  - Compound Assignments: `+=`, `-=`, `*=`, `/=`, `%=`
-- **Use Case:** Used for assigning and modifying variable values.
+## 6_6 statics Keyword
 
-### 5. Increment and Decrement Operators
+Understanding the 'static' keyword and its usage in Java.
 
-Increment and decrement operators increase or decrease the value of a variable by 1.
+## 6_7 Initializer Blocks
 
-- **Definition:** Increment (`++`) adds 1 to the current value, and decrement (`--`) subtracts 1.
-- **Symbols:**
-  - Increment: `++`
-  - Decrement: `--`
-- **Use Case:** Used for loops and quick value modifications.
+Information on initializer blocks in Java.
 
-## Usage
+## 6_8 Wrapper Class
 
-Understanding these operators is crucial for writing efficient and expressive Java code. They play a vital role in performing operations, making decisions, and managing variables in your programs.
+Explanation of the Wrapper class and its purpose in Java.
+
+---
+
 
 Feel free to explore code examples and practical applications in the corresponding course materials and code snippets provided in this repository.
+
+
+
+## Contact Information
+
+For additional support and updates, you can reach me through the following channels:
+
+- **YouTube:** [Your YouTube Channel](https://www.youtube.com/channel/UClhKtACVRfHeYcDiAxngZpQ)
+- **Email:** viveksinghpihuli0a@gmail.com
+- **GitHub:** [Your GitHub Profile](https://github.com/Bholuvivek)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vivekbholu)
+- **Instagram:** [Your Instagram Profile](https://www.instagram.com/thevivekbholu)
+- **Twitter:** [Your Twitter Profile](https://twitter.com/Bholuvivek)
+
+Feel free to connect and stay updated on the latest Java programming content and announcements!
