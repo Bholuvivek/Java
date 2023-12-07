@@ -17,11 +17,11 @@
 
 Explanation of how to declare classes and create objects in Java.
 
-// Class declaration
-public class MyClass {
+   // Class declaration
+          public class MyClass {
     // Class members (fields, methods, constructors, etc.)
-    private int myField;
-
+        private int myField;
+Now Constructor
     // Constructor
     public MyClass(int value) {
         this.myField = value;
