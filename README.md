@@ -30,12 +30,11 @@ Feel free to explore the individual folders for each topic to access code exampl
 ## Contact Information
 
 For additional support and updates, you can reach me through the following channels:
-
 - **YouTube:** [Vivek Kumar Singh l](https://www.youtube.com/channel/UClhKtACVRfHeYcDiAxngZpQ)
 - **Email:** viveksinghpihuli0a@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/Bholuvivek)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vivekbholu)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/thevivekbholu)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/Bholuvivek)
+- **GitHub:** [Bholuvivek](https://github.com/Bholuvivek)
+- **LinkedIn:** ](https://www.linkedin.com/in/vivekbholu)
+- **Instagram:**[vivekbholu] [thevivekbhou](https://www.instagram.com/thevivekbholu)
+- **Twitter:** [Bholuvivek](https://twitter.com/Bholuvivek)
 
 Feel free to connect and stay updated on the latest Java programming content and announcements!
