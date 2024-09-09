@@ -37,4 +37,4 @@ For additional support and updates, you can reach me through the following chann
 - **Instagram:**[vivekbholu] [thevivekbhou](https://www.instagram.com/thevivekbholu)
 - **Twitter:** [Bholuvivek](https://twitter.com/Bholuvivek)
 
-Feel free to connect and stay updated on the latest Java programming content and announcements!
+Feel free to connect and stay updated on the latest Java programming content and announcements!!
